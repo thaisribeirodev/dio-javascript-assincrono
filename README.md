@@ -17,4 +17,4 @@ Você pode também usar a aplicação acessando esse link: [https://api-gatinhos
 
 
 
-![gatinhos-api](https://github.com/thaisribeirodev/dio-javascript-assincrono/blob/main/gatinhos-api.gif)
+![api-gatinhos](https://github.com/thaisribeirodev/dio-javascript-assincrono/blob/main/api-gatinhos.gif)
